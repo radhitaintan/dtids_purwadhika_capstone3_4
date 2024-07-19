@@ -35,3 +35,5 @@ capstone_3_travel_insurance.ipynb: Jupyter Notebook containing the full analysis
 data/: Directory containing the dataset used for the model.
 
 requirements.txt: A file listing the necessary Python libraries for reproducing the analysis.
+
+https://drive.google.com/file/d/1U6ZRdYTX4DGPBQOLIiidB5UHTmhVq0Qn/view?usp=drivesdk
