@@ -1,0 +1,13 @@
+## requirement
+pip
+jupyter
+db-dtypes
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.2.2
+category-encoders==2.6.3
+imbalanced-learn==0.12.3
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-storage
+google-auth
